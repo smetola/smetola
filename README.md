@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Santi Metola</h1>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=A+passionate+for+Full+Stack+developer;Data+engineer+;Student+at+42Madrid;Mexicano+que+le+gusta+el+picante+%F0%9F%8C%B6%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=Programador autodidacta;Estudiante+en+42Madrid;Apasionado+por+la+tecnología%F0%9F%8C%B6%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
