@@ -1,15 +1,15 @@
 <h1 align="center">Hola soy Santi Metola</h1>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=Programador+autodidacta;Estudiando+en+42Madrid;Apasionado+por+la+tecnología%F0%9F%8C%B6%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=Programador+autodidacta;Estudiando+en+42Madrid;Apasionado+por+la+tecnología)](https://git.io/typing-svg)
 
 </div>
 
 - 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
 
-- 📫 How to reach me **santimetola@protonmail.com**
+- 📫 Contacto: **santimetola@protonmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">LinkedIn</h3>
 <p align="left">
 <a href="https://linkedin.com/in/santiagometola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiagometola" height="30" width="40" /></a>
 </p>
