@@ -9,8 +9,6 @@
 
 - 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
 
-- Mi LinkedIn [linkedin.com/in/santiagometola](linkedin.com/in/santiagometola)
-
 - 📫 How to reach me **santimetola@protonmail.com**
 
 <h3 align="left">Connect with me:</h3>
