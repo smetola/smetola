@@ -5,8 +5,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smetola&label=Profile%20views&color=0e75b6&style=flat" alt="smetola" /> </p>
-
 - 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
 
 - 📫 How to reach me **santimetola@protonmail.com**
