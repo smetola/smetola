@@ -5,8 +5,6 @@
 
 </div>
 
-[![sanmetol's 42 stats](https://badge.mediaplus.ma/darkblue/sanmetol)](https://github.com/oakoudad/badge42)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smetola&label=Profile%20views&color=0e75b6&style=flat" alt="smetola" /> </p>
 
 - 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
