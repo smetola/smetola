@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smetola&label=Profile%20views&color=0e75b6&style=flat" alt="smetola" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smetola" alt="smetola" /></a> </p>
-
 - 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
 
 - Mi LinkedIn [linkedin.com/in/santiagometola](linkedin.com/in/santiagometola)
