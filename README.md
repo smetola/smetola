@@ -5,7 +5,7 @@
 
 </div>
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
+[![<sanmetol>'s 42 stats](https://badge.mediaplus.ma/darkblue/<username>)](https://github.com/oakoudad/badge42)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smetola&label=Profile%20views&color=0e75b6&style=flat" alt="smetola" /> </p>
 
