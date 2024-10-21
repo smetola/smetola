@@ -5,9 +5,9 @@
 
 </div>
 
-- 🔭 Ahora mismo estoy trabajando en [pipex](https://github.com/smetola/pipex)
+## - 🔭 Ahora mismo estoy trabajando en [pipex](https://github.com/smetola/pipex)
 
-- 📫 Contacto: **santimetola@protonmail.com**
+## - 📫 Contacto: **santimetola@protonmail.com**
 
 <h3 align="left">LinkedIn</h3>
 <p align="left">
