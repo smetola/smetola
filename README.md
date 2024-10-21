@@ -5,7 +5,7 @@
 
 </div>
 
-- 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/push_swap)
+- 🔭 Ahora mismo estoy trabajando en [push_swap](https://github.com/smetola/pipex)
 
 - 📫 Contacto: **santimetola@protonmail.com**
 
