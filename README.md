@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hola soy Santi Metola</strong></h1>
+<h1 align="center">Hola soy Santi Metola</h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=948&center=true&vCenter=true&random=false&width=444&lines=Programador+autodidacta;Estudiando+en+42Madrid;Apasionado+por+la+tecnología)](https://git.io/typing-svg)
