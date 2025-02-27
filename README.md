@@ -5,7 +5,7 @@
 
 </div>
 
-## - 🔭 Ahora mismo estoy trabajando en [pipex](https://github.com/smetola/pipex)
+## - 🔭 Ahora mismo estoy trabajando en [minishell](https://github.com/smetola/minishell)
 
 ## - 📫 Contacto: **santimetola@protonmail.com**
 
